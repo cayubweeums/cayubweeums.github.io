@@ -1,0 +1,30 @@
+@font-face {
+	font-family: JetBrains;
+	src: url('JetBrainsMono-VariableFont_wght.ttf');
+}
+html, body{
+    background-color: black;
+	font-family: JetBrains;
+}
+h1{
+	color: #149414;
+}
+.wrapper{
+	padding: 10px
+}
+.menu_section {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: auto;
+    height: 100%;
+    overflow: auto;
+    background: #F2F2F2;
+}
+.menu_item{
+    font-size: 72px;
+    font-style: italic;
+	text-align: center;
+    color: #000000;
+    display: block;
+}
