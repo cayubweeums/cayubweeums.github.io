@@ -7,15 +7,15 @@ html, body{
 	font-family: JetBrains;
 }
 strong{
-	font-size: 38pt;
+	font-size: 42pt;
 	color: #149414;
+}
+h1{
+	font-size: 36pt
 }
 body {
   justify-content: center;
   color: #fff;
-}
-.cover-container {
-  max-width: 42em;
 }
 .container{
 	margin-top: 2.5em;
@@ -25,11 +25,11 @@ body {
   margin-bottom: 0;
   float: left;
 }
-.nav-masthead .nav-link {
+.nav-label .nav-link {
   padding: 0.5rem;
   font-weight: 700;
   color: #8D918D;
 }
-.nav-masthead {
+.nav-label {
 float: right;
 }
