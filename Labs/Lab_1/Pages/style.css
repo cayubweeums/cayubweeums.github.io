@@ -14,15 +14,22 @@ body {
   justify-content: center;
   color: #fff;
 }
-.labs-container{
-	text-align: right;
-	padding-right: 2.5em;
+.cover-container {
+  max-width: 42em;
 }
 .container{
 	margin-top: 2.5em;
-	text-align: center;
+	text-align: right;
 }
-.socials{
-	padding-left: 2.5em;
-	text-align: left;
+.Label {
+  margin-bottom: 0;
+  float: left;
+}
+.nav-masthead .nav-link {
+  padding: 0.5rem;
+  font-weight: 700;
+  color: #8D918D;
+}
+.nav-masthead {
+float: right;
 }
