@@ -11,7 +11,7 @@ const exp = [
     place: "PNC Bank Midland Loan Services Branch",
     time: "(May, 2021 - August 2021)",
     desp: "<li>Created and Modified Multiple APIs for PNC's Commercial Application 'Enterprise!'. Altered Automation Scripts, worked with and modified SQL Databases via SSMS, and channeled all workflows through Azure.</li>",
-  },
+  }
 ];
 
 const showCards2 = () => {
@@ -145,17 +145,7 @@ document.addEventListener("DOMContentLoaded", showCards2);
 //   {
 //     title: "AtlasHacks",
 //     subtitle: "Mentor",
-//     image: "assets/images/experience-page/atlas.png",
-//     desp: "AtlasHacks II is a 3-day virtual hackathon that aims to foster creativity within hackers all around the world.",
-//   },
-//   {
-//     title: "NeoHacks",
-//     subtitle: "Judge",
-//     image: "assets/images/experience-page/neo.png",
-//     desp: "NeoHacks is an upcoming 48-hour hackathon taking place July 23-25, 2021 where hundreds of students from around the world will come together virtually to learn new skills, meet new friends, and build awesome projects. We provide beginner-friendly workshops, mentorship, fun games, and more.",
-//   },
-//   {
-//     title: "Mission Inspired",
+//     image: "assets/images/experience-page/atlas.png",div
 //     subtitle: "Judge",
 //     image: "assets/images/experience-page/mission.png",
 //     desp: "InspireEd Hacks is a nationwide initiative organized by the student-for-student nonprofit, Mission InspirEd, challenging students ages 10-18 to synthesize their creativity and coding experience into a product beneficial to the educational community.",
